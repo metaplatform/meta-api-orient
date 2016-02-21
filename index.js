@@ -12,6 +12,9 @@ module.exports = {
 
 	//Utils
 	Bootstrap: require("./lib/bootstrap.js"),
-	Query: require("./lib/query.js")
+	Query: require("./lib/query.js"),
+
+	//Queue manager
+	QueueManager: require("./lib/queueManager.js")
 
 };

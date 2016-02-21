@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "meta-api-shared": "*",
+    "meta-logger": "^1.0.3",
     "orientjs": "^2.1.0"
   }
 }
