@@ -28,8 +28,8 @@
     "should": "^6.0.3"
   },
   "dependencies": {
-    "meta-api-shared": "*",
+    "meta-api-shared": "git+https://github.com/metaplatform/meta-api-shared.git#master",
     "meta-logger": "^1.0.3",
-    "orientjs": "^2.1.0"
+    "orientjs": "git+https://github.com/metaplatform/orientjs.git"
   }
 }
