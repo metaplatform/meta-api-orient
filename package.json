@@ -30,6 +30,6 @@
   "dependencies": {
     "meta-api-shared": "git+https://github.com/metaplatform/meta-api-shared.git#master",
     "meta-logger": "^1.0.3",
-    "orientjs": "git+https://github.com/metaplatform/orientjs.git"
+    "orientjs": "git+https://github.com/metaplatform/orientjs.git#master"
   }
 }
